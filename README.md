@@ -1,21 +1,21 @@
 <div align="center">
 
-# Hi there, I'm Lucas Rosse 👋
+# Olá, eu sou Lucas Rosse 👋
 
-**Full Stack Developer** | C# · .NET · Angular · TypeScript · SQL Server
+**Desenvolvedor Full Stack** | C# · .NET · Angular · TypeScript · SQL Server
 
-Building and maintaining enterprise ERP systems, migrating legacy Delphi modules to modern Angular/PrimeNG architecture. Currently exploring international remote opportunities in Software Engineering.
+Desenvolvimento e manutenção de sistemas ERP corporativos, com migração de módulos legados em Delphi para uma arquitetura moderna utilizando Angular e PrimeNG. Atualmente, busco oportunidades internacionais de trabalho remoto na área de Engenharia de Software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rosse-2aa695264/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lrdesillos@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=lrosse&color=blue&style=for-the-badge)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=lrosse&color=blue&style=for-the-badge)
 
 </div>
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Tecnologias e ferramentas
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -32,19 +32,19 @@ Building and maintaining enterprise ERP systems, migrating legacy Delphi modules
 
 ---
 
-### 📊 GitHub stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrosse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lrosse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lrosse&theme=tokyonight&hide_border=true)
+![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=lrosse&theme=tokyonight&hide_border=true&locale=pt_BR)
 
 </div>
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Projetos em destaque
 
 <div align="center">
 
@@ -56,17 +56,16 @@ Building and maintaining enterprise ERP systems, migrating legacy Delphi modules
 
 </div>
 
-**🔍 API Sentinel** — API monitoring and contract change detection tool. Tracks API contracts over time and alerts on breaking changes. *In active development.*
+**🔍 API Sentinel** — Ferramenta de monitoramento de APIs e detecção de alterações em contratos. Acompanha os contratos das APIs ao longo do tempo e alerta sobre mudanças que possam comprometer a compatibilidade. *Em desenvolvimento ativo.*
 
-**🤖 MeetingIQ** — AI-powered meeting analysis platform: transcript upload, AI agents, and an insights dashboard. *Core features implemented.*
+**🤖 MeetingIQ** — Plataforma de análise de reuniões com Inteligência Artificial, incluindo envio de transcrições, agentes de IA e painel de insights. *Principais funcionalidades implementadas.*
 
-**📚 SGEP** — Personalized study management system with spaced-repetition review cycles and performance tracking. *Functional MVP.*
+**📚 SGEP** — Sistema personalizado de gerenciamento de estudos, com ciclos de revisão espaçada e acompanhamento de desempenho. *MVP funcional.*
 
-**🛒 TCC — Store Management System** — E-commerce and inventory management system built in Django. *Completed academic capstone project.*
+**🛒 TCC — Sistema de Gestão de Loja** — Sistema de comércio eletrônico e gerenciamento de estoque desenvolvido em Django. *Trabalho de conclusão de curso finalizado.*
 
 ---
 
-### 🚧 Coming up next
-Actively working on new projects to expand my portfolio — check back soon for updates.
+### 🚧 Próximos passos
 
-</div>
+Atualmente, estou trabalhando em novos projetos para ampliar meu portfólio e aprimorar meus conhecimentos. Em breve, mais novidades!
